@@ -1,3 +1,4 @@
+County Unreserved_Timberland_Total Unreserved_Timberland_SE Unreserved_Other_Total Unreserved_Other_SE Unreserved_Total_Total Unreserved_Total_SE Reserved_Productive_Total Reserved_Productive_SE Reserved_Other_Total Reserved_Other_SE Reserved_Total_Total Reserved_Total_SE All_Total All_SE
 Alameda — — 205.4 104.5 205.4 104.5 — — — — — — 205.4 104.5 
 Alpine 1,303.6 505.0 99.8 64.8 1,403.5 509.0 1,502.1 387.0 104.2 50.8 1,606.3 389.5 3,009.8 637.6 
 Amador 1,187.8 529.7 40.1 18.4 1,227.9 530.0 278.9 177.5 — — 278.9 177.5 1,506.8 556.9 
