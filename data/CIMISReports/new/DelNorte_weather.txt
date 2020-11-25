@@ -1,0 +1,2 @@
+Month	Precip (in)	Avg Air Temp (F)	Avg Rel Hum (%)	Avg Wind Speed (mph)
+Oct 2020	"1.16	K"	66.8	"61	K"	"47.8	K"
