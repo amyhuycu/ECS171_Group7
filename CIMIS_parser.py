@@ -49,7 +49,7 @@ counties_list = ['Alpine', 'Calaveras', 'CentralCal', 'CentralCoastValleys', 'Co
 
 months_list = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
-column_headers = ['Month', 'Precip (in)', 'Avg Air Temp (F)', 'Avg Rel Hum (%)', 'Avg Wind Speed (mph)' ]
+column_headers = ['Month', 'Year', 'Precip (in)', 'Avg Air Temp (F)', 'Avg Rel Hum (%)', 'Avg Wind Speed (mph)' ]
         
 files_list = glob.glob("data/CIMISReports/old/*.txt")
 def main():
@@ -75,7 +75,8 @@ def main():
             for line in lines:
                 line = line.strip()
                 if count == 0 and line[0:3] in months_list:
-                    data['Month'].append(line)
+                    data['Month'].append(line[0:3])
+                    data['Year'].append(line[4:])
                 elif count == 2:
                     data['Precip (in)'].append(line)
                 elif count == 5:
