@@ -1,2 +1,2 @@
-Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Oct,2020,0.00	K,74.0,9	K,13.0
+County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
+Plumas,Oct,2020,0.00	K,74.0,9	K,13.0

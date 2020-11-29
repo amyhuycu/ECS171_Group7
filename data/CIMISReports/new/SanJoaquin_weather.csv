@@ -1,13 +1,13 @@
-Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Nov,2019,1.31,71.1	K,40,42.4
-Dec,2019,2.84,59.1,70,46.5	K
-Jan,2020,0.90,59.5,72,45.9
-Feb,2020,0.01,69.4	K,36,40.4
-Mar,2020,1.32,67.4	K,51,46.9	K
-Apr,2020,0.79,75.7,42,49.2	K
-May,2020,0.53,84.9	K,31,50.0	L
-Jun,2020,0.02,91.5	K,29,53.0	K
-Jul,2020,0.00,97.8	K,30,57.6
-Aug,2020,0.02	K,100.0	L,34	K,61.6	L
-Sep,2020,0.01,92.1	L,32	K,56.8	L
-Oct,2020,0.01,85.6	K,27,49.3	L
+County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
+SanJoaquin,Nov,2019,1.31,71.1	K,40,42.4
+SanJoaquin,Dec,2019,2.84,59.1,70,46.5	K
+SanJoaquin,Jan,2020,0.90,59.5,72,45.9
+SanJoaquin,Feb,2020,0.01,69.4	K,36,40.4
+SanJoaquin,Mar,2020,1.32,67.4	K,51,46.9	K
+SanJoaquin,Apr,2020,0.79,75.7,42,49.2	K
+SanJoaquin,May,2020,0.53,84.9	K,31,50.0	L
+SanJoaquin,Jun,2020,0.02,91.5	K,29,53.0	K
+SanJoaquin,Jul,2020,0.00,97.8	K,30,57.6
+SanJoaquin,Aug,2020,0.02	K,100.0	L,34	K,61.6	L
+SanJoaquin,Sep,2020,0.01,92.1	L,32	K,56.8	L
+SanJoaquin,Oct,2020,0.01,85.6	K,27,49.3	L

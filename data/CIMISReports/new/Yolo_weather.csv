@@ -1,13 +1,13 @@
-Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Nov,2019,0.00,71.5	K,33,38.7
-Dec,2019,0.46	K,57.1,72	K,45.5	K
-Jan,2020,1.01,57.8,66,44.4	K
-Feb,2020,0.45,68.7	K,31,36.1	K
-Mar,2020,0.75,66.0	K,41,40.9	K
-Apr,2020,0.80	K,76.0,34,45.0	K
-May,2020,0.70	K,83.4,27,47.8	K
-Jun,2020,0.25,90.4,26,51.3	K
-Jul,2020,0.13	K,93.8,22	K,55.6	L
-Aug,2020,0.00,95.7	K,26	K,56.1	L
-Sep,2020,0.00,92.2	K,24	K,51.8	K
-Oct,2020,0.00,86.1	K,20	K,41.8	L
+County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
+Yolo,Nov,2019,0.00,71.5	K,33,38.7
+Yolo,Dec,2019,0.46	K,57.1,72	K,45.5	K
+Yolo,Jan,2020,1.01,57.8,66,44.4	K
+Yolo,Feb,2020,0.45,68.7	K,31,36.1	K
+Yolo,Mar,2020,0.75,66.0	K,41,40.9	K
+Yolo,Apr,2020,0.80	K,76.0,34,45.0	K
+Yolo,May,2020,0.70	K,83.4,27,47.8	K
+Yolo,Jun,2020,0.25,90.4,26,51.3	K
+Yolo,Jul,2020,0.13	K,93.8,22	K,55.6	L
+Yolo,Aug,2020,0.00,95.7	K,26	K,56.1	L
+Yolo,Sep,2020,0.00,92.2	K,24	K,51.8	K
+Yolo,Oct,2020,0.00,86.1	K,20	K,41.8	L

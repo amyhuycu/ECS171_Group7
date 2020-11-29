@@ -1,13 +1,13 @@
-Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Nov,2019,1.68,72.0	K,38,41.2	K
-Dec,2019,5.06,60.6,62,45.6	K
-Jan,2020,1.13	K,61.4,60,43.5
-Feb,2020,0.00,67.8	K,39,39.0
-Mar,2020,3.30	K,63.6,56,44.4	K
-Apr,2020,1.64,69.4,57,48.6
-May,2020,0.22,76.9	K,43,49.6	L
-Jun,2020,0.02,79.9	K,41,51.3	L
-Jul,2020,0.00,79.4,46,53.3
-Aug,2020,0.01	K,84.4	L,41	K,55.3	L
-Sep,2020,0.02,85.7	K,39	K,54.6	L
-Oct,2020,0.00,84.7	K,30,46.7	K
+County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
+SanBenito,Nov,2019,1.68,72.0	K,38,41.2	K
+SanBenito,Dec,2019,5.06,60.6,62,45.6	K
+SanBenito,Jan,2020,1.13	K,61.4,60,43.5
+SanBenito,Feb,2020,0.00,67.8	K,39,39.0
+SanBenito,Mar,2020,3.30	K,63.6,56,44.4	K
+SanBenito,Apr,2020,1.64,69.4,57,48.6
+SanBenito,May,2020,0.22,76.9	K,43,49.6	L
+SanBenito,Jun,2020,0.02,79.9	K,41,51.3	L
+SanBenito,Jul,2020,0.00,79.4,46,53.3
+SanBenito,Aug,2020,0.01	K,84.4	L,41	K,55.3	L
+SanBenito,Sep,2020,0.02,85.7	K,39	K,54.6	L
+SanBenito,Oct,2020,0.00,84.7	K,30,46.7	K

@@ -1,13 +1,13 @@
-Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Nov,2019,0.14,57.9,42,29.7	K
-Dec,2019,1.28	L,45.4,69,32.6	L
-Jan,2020,â€‘â€‘	M,46.2,65,â€‘â€‘	M
-Feb,2020,â€‘â€‘	M,54.6,37,â€‘â€‘	M
-Mar,2020,â€‘â€‘	M,56.4,39,â€‘â€‘	M
-Apr,2020,â€‘â€‘	M,67.1,31,â€‘â€‘	M
-May,2020,â€‘â€‘	M,72.1,36,â€‘â€‘	M
-Jun,2020,â€‘â€‘	M,80.5	K,30,â€‘â€‘	M
-Jul,2020,â€‘â€‘	M,91.3,19,â€‘â€‘	M
-Aug,2020,â€‘â€‘	M,90.9	K,22	K,â€‘â€‘	M
-Sep,2020,â€‘â€‘	M,85.5	K,23	K,â€‘â€‘	M
-Oct,2020,0.00	L,74.4,24,32.0	L
+County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
+Siskiyou,Nov,2019,0.14,57.9,42,29.7	K
+Siskiyou,Dec,2019,1.28	L,45.4,69,32.6	L
+Siskiyou,Jan,2020,â€‘â€‘	M,46.2,65,â€‘â€‘	M
+Siskiyou,Feb,2020,â€‘â€‘	M,54.6,37,â€‘â€‘	M
+Siskiyou,Mar,2020,â€‘â€‘	M,56.4,39,â€‘â€‘	M
+Siskiyou,Apr,2020,â€‘â€‘	M,67.1,31,â€‘â€‘	M
+Siskiyou,May,2020,â€‘â€‘	M,72.1,36,â€‘â€‘	M
+Siskiyou,Jun,2020,â€‘â€‘	M,80.5	K,30,â€‘â€‘	M
+Siskiyou,Jul,2020,â€‘â€‘	M,91.3,19,â€‘â€‘	M
+Siskiyou,Aug,2020,â€‘â€‘	M,90.9	K,22	K,â€‘â€‘	M
+Siskiyou,Sep,2020,â€‘â€‘	M,85.5	K,23	K,â€‘â€‘	M
+Siskiyou,Oct,2020,0.00	L,74.4,24,32.0	L
