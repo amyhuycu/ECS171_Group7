@@ -92,7 +92,7 @@ def main():
 
             # Write this to a dataframe and csv file
             df = pd.DataFrame(data = data)
-            df.to_csv("data/CIMISReports/new/" + county_name + '_weather.csv', header=column_headers, index=None, sep='\t')
+            df.to_csv("data/CIMISReports/new/" + county_name + '_weather.csv', header=column_headers, index=None, sep=',')
 
 if __name__ == "__main__":
     main()
