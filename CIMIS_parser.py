@@ -91,6 +91,8 @@ def main():
             
             for line in lines:
                 line = line.strip()
+                line = line.replace('\t', '')
+
                 #data['County'].append(county_name)
                 if count == 0 and line[0:3] in months_list:
                     data['County'].append(county_name)

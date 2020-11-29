@@ -1,13 +1,13 @@
 County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Ventura,11,2019,3.16,73.7	K,34	K,40.0	K
+Ventura,11,2019,3.16,73.7K,34K,40.0K
 Ventura,12,2019,4.35,64.1,44,39.4
 Ventura,1,2020,1.07,68.3,36,38.6
-Ventura,2,2020,0.87,70.4	K,31	K,36.4	K
-Ventura,3,2020,3.59,65.4,52,45.6	K
-Ventura,4,2020,1.92	K,72.3	K,51	K,50.3	L
-Ventura,5,2020,1.74	K,79.0	K,45	K,53.7	L
-Ventura,6,2020,2.55	K,79.1	L,49	K,56.6	L
-Ventura,7,2020,1.11	K,82.3	K,48,57.1	K
-Ventura,8,2020,0.00,86.6	L,45	K,59.7	L
-Ventura,9,2020,0.00,87.8	K,36	K,55.3	L
-Ventura,10,2020,0.00,83.8	K,34,49.2	K
+Ventura,2,2020,0.87,70.4K,31K,36.4K
+Ventura,3,2020,3.59,65.4,52,45.6K
+Ventura,4,2020,1.92K,72.3K,51K,50.3L
+Ventura,5,2020,1.74K,79.0K,45K,53.7L
+Ventura,6,2020,2.55K,79.1L,49K,56.6L
+Ventura,7,2020,1.11K,82.3K,48,57.1K
+Ventura,8,2020,0.00,86.6L,45K,59.7L
+Ventura,9,2020,0.00,87.8K,36K,55.3L
+Ventura,10,2020,0.00,83.8K,34,49.2K

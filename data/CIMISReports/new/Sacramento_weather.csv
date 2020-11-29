@@ -1,13 +1,13 @@
 County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Sacramento,11,2019,0.81,69.3,36	K,39.4	K
-Sacramento,12,2019,4.26,57.4,70,45.4	K
-Sacramento,1,2020,1.48,56.9,71	K,44.0
-Sacramento,2,2020,0.02,67.1	K,36,37.8
-Sacramento,3,2020,1.92,64.4	K,48,42.9
+Sacramento,11,2019,0.81,69.3,36K,39.4K
+Sacramento,12,2019,4.26,57.4,70,45.4K
+Sacramento,1,2020,1.48,56.9,71K,44.0
+Sacramento,2,2020,0.02,67.1K,36,37.8
+Sacramento,3,2020,1.92,64.4K,48,42.9
 Sacramento,4,2020,2.38,73.4,42,47.2
-Sacramento,5,2020,0.16,82.8	K,30,48.4	K
-Sacramento,6,2020,0.03,88.7	K,27,50.3	K
+Sacramento,5,2020,0.16,82.8K,30,48.4K
+Sacramento,6,2020,0.03,88.7K,27,50.3K
 Sacramento,7,2020,0.00,91.7,26,51.9
-Sacramento,8,2020,0.03,94.8	K,27	K,54.3	L
-Sacramento,9,2020,0.00,90.6	K,27	K,53.0	K
-Sacramento,10,2020,0.02,84.7	K,22,45.2	L
+Sacramento,8,2020,0.03,94.8K,27K,54.3L
+Sacramento,9,2020,0.00,90.6K,27K,53.0K
+Sacramento,10,2020,0.02,84.7K,22,45.2L

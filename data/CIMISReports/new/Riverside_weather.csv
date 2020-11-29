@@ -1,13 +1,13 @@
 County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Riverside,11,2019,2.82,77.5	K,22,29.5	K
-Riverside,12,2019,1.99	K,62.9,43,38.6	K
+Riverside,11,2019,2.82,77.5K,22,29.5K
+Riverside,12,2019,1.99K,62.9,43,38.6K
 Riverside,1,2020,0.30,67.6,35,36.8
-Riverside,2,2020,0.39,71.3,23,32.5	K
-Riverside,3,2020,4.03	K,65.1	K,45,42.7	K
-Riverside,4,2020,0.39	K,73.6	K,46,48.7	L
-Riverside,5,2020,0.03,89.3	K,28	K,53.0	L
-Riverside,6,2020,0.00,91.7	K,27,52.0	K
-Riverside,7,2020,0.07,101.1	K,17,52.3	K
-Riverside,8,2020,0.00,101.9	K,17,51.8	K
-Riverside,9,2020,0.00,100.1	K,13,43.3	K
-Riverside,10,2020,0.01,90.9	K,18,39.7	K
+Riverside,2,2020,0.39,71.3,23,32.5K
+Riverside,3,2020,4.03K,65.1K,45,42.7K
+Riverside,4,2020,0.39K,73.6K,46,48.7L
+Riverside,5,2020,0.03,89.3K,28K,53.0L
+Riverside,6,2020,0.00,91.7K,27,52.0K
+Riverside,7,2020,0.07,101.1K,17,52.3K
+Riverside,8,2020,0.00,101.9K,17,51.8K
+Riverside,9,2020,0.00,100.1K,13,43.3K
+Riverside,10,2020,0.01,90.9K,18,39.7K
