@@ -52,6 +52,22 @@ months_list = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'O
 column_headers = ['County', 'Month', 'Year', 'Precip (in)', 'Avg Air Temp (F)', 'Avg Rel Hum (%)', 'Avg Wind Speed (mph)' ]
         
 files_list = glob.glob("data/CIMISReports/old/*.txt")
+
+month_mapping = {
+    'Jan': 1,
+    'Feb': 2, 
+    'Mar': 3,
+    'Apr': 4, 
+    'May': 5, 
+    'Jun': 6, 
+    'Jul': 7, 
+    'Aug': 8, 
+    'Sep': 9, 
+    'Oct': 10, 
+    'Nov': 11, 
+    'Dec': 12
+}
+
 def main():
 
     for filename in files_list:
@@ -78,7 +94,7 @@ def main():
                 #data['County'].append(county_name)
                 if count == 0 and line[0:3] in months_list:
                     data['County'].append(county_name)
-                    data['Month'].append(line[0:3])
+                    data['Month'].append(month_mapping[line[0:3]])
                     data['Year'].append(line[4:])
                 elif count == 2:
                     data['Precip (in)'].append(line)

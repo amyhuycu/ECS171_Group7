@@ -1,13 +1,13 @@
 County,Month,Year,Precip (in),Avg Air Temp (F),Avg Rel Hum (%),Avg Wind Speed (mph)
-Alpine,Nov,2019,0.50,55.3	K,31,19.2	K
-Alpine,Dec,2019,3.46,44.0,54,24.0	K
-Alpine,Jan,2020,1.98	K,49.8,33,20.8
-Alpine,Feb,2020,0.29,53.5	K,21	K,15.7	K
-Alpine,Mar,2020,1.89	K,49.6	K,40,23.3	K
-Alpine,Apr,2020,1.45	K,60.1,31,29.0
-Alpine,May,2020,1.10	K,67.9,27,31.2
-Alpine,Jun,2020,0.55	K,75.9	K,23,35.4	K
-Alpine,Jul,2020,0.11,86.2,17	K,37.5	K
-Alpine,Aug,2020,0.22	L,88.4	L,15	L,37.9	L
-Alpine,Sep,2020,0.03,79.7,16,31.4
-Alpine,Oct,2020,0.01,70.5,16,21.3	K
+Alpine,11,2019,0.50,55.3	K,31,19.2	K
+Alpine,12,2019,3.46,44.0,54,24.0	K
+Alpine,1,2020,1.98	K,49.8,33,20.8
+Alpine,2,2020,0.29,53.5	K,21	K,15.7	K
+Alpine,3,2020,1.89	K,49.6	K,40,23.3	K
+Alpine,4,2020,1.45	K,60.1,31,29.0
+Alpine,5,2020,1.10	K,67.9,27,31.2
+Alpine,6,2020,0.55	K,75.9	K,23,35.4	K
+Alpine,7,2020,0.11,86.2,17	K,37.5	K
+Alpine,8,2020,0.22	L,88.4	L,15	L,37.9	L
+Alpine,9,2020,0.03,79.7,16,31.4
+Alpine,10,2020,0.01,70.5,16,21.3	K
